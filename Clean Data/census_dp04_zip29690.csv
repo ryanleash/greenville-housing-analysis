@@ -1,0 +1,274 @@
+Variable_Code,Category,Type,Value,Margin_of_Error,ZIP
+DP04_0001E,HOUSING OCCUPANCY > Total housing units,Estimate,10204,653,29690
+DP04_0001PE,HOUSING OCCUPANCY > Total housing units,Percent,10204,,29690
+DP04_0002E,HOUSING OCCUPANCY > Total housing units > Occupied housing units,Estimate,9235,650,29690
+DP04_0002PE,HOUSING OCCUPANCY > Total housing units > Occupied housing units,Percent,90.5,2.9,29690
+DP04_0003E,HOUSING OCCUPANCY > Total housing units > Vacant housing units,Estimate,969,307,29690
+DP04_0003PE,HOUSING OCCUPANCY > Total housing units > Vacant housing units,Percent,9.5,2.9,29690
+DP04_0004E,HOUSING OCCUPANCY > Total housing units > Homeowner vacancy rate,Estimate,0.6,0.6,29690
+DP04_0005E,HOUSING OCCUPANCY > Total housing units > Rental vacancy rate,Estimate,4.9,4.5,29690
+DP04_0006E,UNITS IN STRUCTURE > Total housing units,Estimate,10204,653,29690
+DP04_0006PE,UNITS IN STRUCTURE > Total housing units,Percent,10204,,29690
+DP04_0007E,"UNITS IN STRUCTURE > Total housing units > 1-unit, detached",Estimate,7527,607,29690
+DP04_0007PE,"UNITS IN STRUCTURE > Total housing units > 1-unit, detached",Percent,73.8,3.4,29690
+DP04_0008E,"UNITS IN STRUCTURE > Total housing units > 1-unit, attached",Estimate,53,38,29690
+DP04_0008PE,"UNITS IN STRUCTURE > Total housing units > 1-unit, attached",Percent,0.5,0.4,29690
+DP04_0009E,UNITS IN STRUCTURE > Total housing units > 2 units,Estimate,30,37,29690
+DP04_0009PE,UNITS IN STRUCTURE > Total housing units > 2 units,Percent,0.3,0.4,29690
+DP04_0010E,UNITS IN STRUCTURE > Total housing units > 3 or 4 units,Estimate,23,26,29690
+DP04_0010PE,UNITS IN STRUCTURE > Total housing units > 3 or 4 units,Percent,0.2,0.3,29690
+DP04_0011E,UNITS IN STRUCTURE > Total housing units > 5 to 9 units,Estimate,288,134,29690
+DP04_0011PE,UNITS IN STRUCTURE > Total housing units > 5 to 9 units,Percent,2.8,1.3,29690
+DP04_0012E,UNITS IN STRUCTURE > Total housing units > 10 to 19 units,Estimate,0,25,29690
+DP04_0012PE,UNITS IN STRUCTURE > Total housing units > 10 to 19 units,Percent,0.0,0.4,29690
+DP04_0013E,UNITS IN STRUCTURE > Total housing units > 20 or more units,Estimate,152,94,29690
+DP04_0013PE,UNITS IN STRUCTURE > Total housing units > 20 or more units,Percent,1.5,0.9,29690
+DP04_0014E,UNITS IN STRUCTURE > Total housing units > Mobile home,Estimate,2096,347,29690
+DP04_0014PE,UNITS IN STRUCTURE > Total housing units > Mobile home,Percent,20.5,3.1,29690
+DP04_0015E,"UNITS IN STRUCTURE > Total housing units > Boat, RV, van, etc.",Estimate,35,40,29690
+DP04_0015PE,"UNITS IN STRUCTURE > Total housing units > Boat, RV, van, etc.",Percent,0.3,0.4,29690
+DP04_0016E,YEAR STRUCTURE BUILT > Total housing units,Estimate,10204,653,29690
+DP04_0016PE,YEAR STRUCTURE BUILT > Total housing units,Percent,10204,,29690
+DP04_0017E,YEAR STRUCTURE BUILT > Total housing units > Built 2020 or later,Estimate,142,70,29690
+DP04_0017PE,YEAR STRUCTURE BUILT > Total housing units > Built 2020 or later,Percent,1.4,0.7,29690
+DP04_0018E,YEAR STRUCTURE BUILT > Total housing units > Built 2010 to 2019,Estimate,1307,322,29690
+DP04_0018PE,YEAR STRUCTURE BUILT > Total housing units > Built 2010 to 2019,Percent,12.8,2.9,29690
+DP04_0019E,YEAR STRUCTURE BUILT > Total housing units > Built 2000 to 2009,Estimate,1956,272,29690
+DP04_0019PE,YEAR STRUCTURE BUILT > Total housing units > Built 2000 to 2009,Percent,19.2,2.8,29690
+DP04_0020E,YEAR STRUCTURE BUILT > Total housing units > Built 1990 to 1999,Estimate,2051,269,29690
+DP04_0020PE,YEAR STRUCTURE BUILT > Total housing units > Built 1990 to 1999,Percent,20.1,2.6,29690
+DP04_0021E,YEAR STRUCTURE BUILT > Total housing units > Built 1980 to 1989,Estimate,1149,228,29690
+DP04_0021PE,YEAR STRUCTURE BUILT > Total housing units > Built 1980 to 1989,Percent,11.3,2.2,29690
+DP04_0022E,YEAR STRUCTURE BUILT > Total housing units > Built 1970 to 1979,Estimate,1584,409,29690
+DP04_0022PE,YEAR STRUCTURE BUILT > Total housing units > Built 1970 to 1979,Percent,15.5,3.4,29690
+DP04_0023E,YEAR STRUCTURE BUILT > Total housing units > Built 1960 to 1969,Estimate,568,141,29690
+DP04_0023PE,YEAR STRUCTURE BUILT > Total housing units > Built 1960 to 1969,Percent,5.6,1.4,29690
+DP04_0024E,YEAR STRUCTURE BUILT > Total housing units > Built 1950 to 1959,Estimate,705,194,29690
+DP04_0024PE,YEAR STRUCTURE BUILT > Total housing units > Built 1950 to 1959,Percent,6.9,1.9,29690
+DP04_0025E,YEAR STRUCTURE BUILT > Total housing units > Built 1940 to 1949,Estimate,256,123,29690
+DP04_0025PE,YEAR STRUCTURE BUILT > Total housing units > Built 1940 to 1949,Percent,2.5,1.2,29690
+DP04_0026E,YEAR STRUCTURE BUILT > Total housing units > Built 1939 or earlier,Estimate,486,176,29690
+DP04_0026PE,YEAR STRUCTURE BUILT > Total housing units > Built 1939 or earlier,Percent,4.8,1.7,29690
+DP04_0027E,ROOMS > Total housing units,Estimate,10204,653,29690
+DP04_0027PE,ROOMS > Total housing units,Percent,10204,,29690
+DP04_0028E,ROOMS > Total housing units > 1 room,Estimate,98,115,29690
+DP04_0028PE,ROOMS > Total housing units > 1 room,Percent,1.0,1.1,29690
+DP04_0029E,ROOMS > Total housing units > 2 rooms,Estimate,0,25,29690
+DP04_0029PE,ROOMS > Total housing units > 2 rooms,Percent,0.0,0.4,29690
+DP04_0030E,ROOMS > Total housing units > 3 rooms,Estimate,541,206,29690
+DP04_0030PE,ROOMS > Total housing units > 3 rooms,Percent,5.3,2.0,29690
+DP04_0031E,ROOMS > Total housing units > 4 rooms,Estimate,1005,218,29690
+DP04_0031PE,ROOMS > Total housing units > 4 rooms,Percent,9.8,2.1,29690
+DP04_0032E,ROOMS > Total housing units > 5 rooms,Estimate,2679,395,29690
+DP04_0032PE,ROOMS > Total housing units > 5 rooms,Percent,26.3,3.6,29690
+DP04_0033E,ROOMS > Total housing units > 6 rooms,Estimate,1484,314,29690
+DP04_0033PE,ROOMS > Total housing units > 6 rooms,Percent,14.5,2.7,29690
+DP04_0034E,ROOMS > Total housing units > 7 rooms,Estimate,1451,263,29690
+DP04_0034PE,ROOMS > Total housing units > 7 rooms,Percent,14.2,2.6,29690
+DP04_0035E,ROOMS > Total housing units > 8 rooms,Estimate,1291,290,29690
+DP04_0035PE,ROOMS > Total housing units > 8 rooms,Percent,12.7,2.7,29690
+DP04_0036E,ROOMS > Total housing units > 9 rooms or more,Estimate,1655,287,29690
+DP04_0036PE,ROOMS > Total housing units > 9 rooms or more,Percent,16.2,2.6,29690
+DP04_0037E,ROOMS > Total housing units > Median rooms,Estimate,6.0,0.3,29690
+DP04_0038E,BEDROOMS > Total housing units,Estimate,10204,653,29690
+DP04_0038PE,BEDROOMS > Total housing units,Percent,10204,,29690
+DP04_0039E,BEDROOMS > Total housing units > No bedroom,Estimate,98,115,29690
+DP04_0039PE,BEDROOMS > Total housing units > No bedroom,Percent,1.0,1.1,29690
+DP04_0040E,BEDROOMS > Total housing units > 1 bedroom,Estimate,370,181,29690
+DP04_0040PE,BEDROOMS > Total housing units > 1 bedroom,Percent,3.6,1.7,29690
+DP04_0041E,BEDROOMS > Total housing units > 2 bedrooms,Estimate,1873,302,29690
+DP04_0041PE,BEDROOMS > Total housing units > 2 bedrooms,Percent,18.4,2.8,29690
+DP04_0042E,BEDROOMS > Total housing units > 3 bedrooms,Estimate,5311,557,29690
+DP04_0042PE,BEDROOMS > Total housing units > 3 bedrooms,Percent,52.0,4.6,29690
+DP04_0043E,BEDROOMS > Total housing units > 4 bedrooms,Estimate,2068,407,29690
+DP04_0043PE,BEDROOMS > Total housing units > 4 bedrooms,Percent,20.3,3.6,29690
+DP04_0044E,BEDROOMS > Total housing units > 5 or more bedrooms,Estimate,484,145,29690
+DP04_0044PE,BEDROOMS > Total housing units > 5 or more bedrooms,Percent,4.7,1.5,29690
+DP04_0045E,HOUSING TENURE > Occupied housing units,Estimate,9235,650,29690
+DP04_0045PE,HOUSING TENURE > Occupied housing units,Percent,9235,,29690
+DP04_0046E,HOUSING TENURE > Occupied housing units > Owner-occupied,Estimate,7541,611,29690
+DP04_0046PE,HOUSING TENURE > Occupied housing units > Owner-occupied,Percent,81.7,2.7,29690
+DP04_0047E,HOUSING TENURE > Occupied housing units > Renter-occupied,Estimate,1694,265,29690
+DP04_0047PE,HOUSING TENURE > Occupied housing units > Renter-occupied,Percent,18.3,2.7,29690
+DP04_0048E,HOUSING TENURE > Occupied housing units > Average household size of owner-occupied unit,Estimate,2.67,0.09,29690
+DP04_0049E,HOUSING TENURE > Occupied housing units > Average household size of renter-occupied unit,Estimate,2.48,0.34,29690
+DP04_0050E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units,Estimate,9235,650,29690
+DP04_0050PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units,Percent,9235,,29690
+DP04_0051E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2021 or later,Estimate,391,136,29690
+DP04_0051PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2021 or later,Percent,4.2,1.5,29690
+DP04_0052E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2018 to 2020,Estimate,1789,354,29690
+DP04_0052PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2018 to 2020,Percent,19.4,3.5,29690
+DP04_0053E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2010 to 2017,Estimate,2635,388,29690
+DP04_0053PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2010 to 2017,Percent,28.5,3.9,29690
+DP04_0054E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2000 to 2009,Estimate,2022,242,29690
+DP04_0054PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 2000 to 2009,Percent,21.9,3.0,29690
+DP04_0055E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 1990 to 1999,Estimate,1142,264,29690
+DP04_0055PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 1990 to 1999,Percent,12.4,2.7,29690
+DP04_0056E,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 1989 and earlier,Estimate,1256,363,29690
+DP04_0056PE,YEAR HOUSEHOLDER MOVED INTO UNIT > Occupied housing units > Moved in 1989 and earlier,Percent,13.6,3.4,29690
+DP04_0057E,VEHICLES AVAILABLE > Occupied housing units,Estimate,9235,650,29690
+DP04_0057PE,VEHICLES AVAILABLE > Occupied housing units,Percent,9235,,29690
+DP04_0058E,VEHICLES AVAILABLE > Occupied housing units > No vehicles available,Estimate,283,132,29690
+DP04_0058PE,VEHICLES AVAILABLE > Occupied housing units > No vehicles available,Percent,3.1,1.4,29690
+DP04_0059E,VEHICLES AVAILABLE > Occupied housing units > 1 vehicle available,Estimate,2403,369,29690
+DP04_0059PE,VEHICLES AVAILABLE > Occupied housing units > 1 vehicle available,Percent,26.0,3.7,29690
+DP04_0060E,VEHICLES AVAILABLE > Occupied housing units > 2 vehicles available,Estimate,3901,459,29690
+DP04_0060PE,VEHICLES AVAILABLE > Occupied housing units > 2 vehicles available,Percent,42.2,4.2,29690
+DP04_0061E,VEHICLES AVAILABLE > Occupied housing units > 3 or more vehicles available,Estimate,2648,432,29690
+DP04_0061PE,VEHICLES AVAILABLE > Occupied housing units > 3 or more vehicles available,Percent,28.7,3.9,29690
+DP04_0062E,HOUSE HEATING FUEL > Occupied housing units,Estimate,9235,650,29690
+DP04_0062PE,HOUSE HEATING FUEL > Occupied housing units,Percent,9235,,29690
+DP04_0063E,HOUSE HEATING FUEL > Occupied housing units > Utility gas,Estimate,917,227,29690
+DP04_0063PE,HOUSE HEATING FUEL > Occupied housing units > Utility gas,Percent,9.9,2.4,29690
+DP04_0064E,"HOUSE HEATING FUEL > Occupied housing units > Bottled, tank, or LP gas",Estimate,959,230,29690
+DP04_0064PE,"HOUSE HEATING FUEL > Occupied housing units > Bottled, tank, or LP gas",Percent,10.4,2.4,29690
+DP04_0065E,HOUSE HEATING FUEL > Occupied housing units > Electricity,Estimate,6788,527,29690
+DP04_0065PE,HOUSE HEATING FUEL > Occupied housing units > Electricity,Percent,73.5,3.9,29690
+DP04_0066E,"HOUSE HEATING FUEL > Occupied housing units > Fuel oil, kerosene, etc.",Estimate,143,72,29690
+DP04_0066PE,"HOUSE HEATING FUEL > Occupied housing units > Fuel oil, kerosene, etc.",Percent,1.5,0.8,29690
+DP04_0067E,HOUSE HEATING FUEL > Occupied housing units > Coal or coke,Estimate,0,25,29690
+DP04_0067PE,HOUSE HEATING FUEL > Occupied housing units > Coal or coke,Percent,0.0,0.5,29690
+DP04_0068E,HOUSE HEATING FUEL > Occupied housing units > Wood,Estimate,320,279,29690
+DP04_0068PE,HOUSE HEATING FUEL > Occupied housing units > Wood,Percent,3.5,2.9,29690
+DP04_0069E,HOUSE HEATING FUEL > Occupied housing units > Solar energy,Estimate,32,33,29690
+DP04_0069PE,HOUSE HEATING FUEL > Occupied housing units > Solar energy,Percent,0.3,0.4,29690
+DP04_0070E,HOUSE HEATING FUEL > Occupied housing units > Other fuel,Estimate,11,17,29690
+DP04_0070PE,HOUSE HEATING FUEL > Occupied housing units > Other fuel,Percent,0.1,0.2,29690
+DP04_0071E,HOUSE HEATING FUEL > Occupied housing units > No fuel used,Estimate,65,44,29690
+DP04_0071PE,HOUSE HEATING FUEL > Occupied housing units > No fuel used,Percent,0.7,0.5,29690
+DP04_0072E,SELECTED CHARACTERISTICS > Occupied housing units,Estimate,9235,650,29690
+DP04_0072PE,SELECTED CHARACTERISTICS > Occupied housing units,Percent,9235,,29690
+DP04_0073E,SELECTED CHARACTERISTICS > Occupied housing units > Lacking complete plumbing facilities,Estimate,23,30,29690
+DP04_0073PE,SELECTED CHARACTERISTICS > Occupied housing units > Lacking complete plumbing facilities,Percent,0.2,0.3,29690
+DP04_0074E,SELECTED CHARACTERISTICS > Occupied housing units > Lacking complete kitchen facilities,Estimate,98,88,29690
+DP04_0074PE,SELECTED CHARACTERISTICS > Occupied housing units > Lacking complete kitchen facilities,Percent,1.1,0.9,29690
+DP04_0075E,SELECTED CHARACTERISTICS > Occupied housing units > No telephone service available,Estimate,88,61,29690
+DP04_0075PE,SELECTED CHARACTERISTICS > Occupied housing units > No telephone service available,Percent,1.0,0.7,29690
+DP04_0076E,OCCUPANTS PER ROOM > Occupied housing units,Estimate,9235,650,29690
+DP04_0076PE,OCCUPANTS PER ROOM > Occupied housing units,Percent,9235,,29690
+DP04_0077E,OCCUPANTS PER ROOM > Occupied housing units > 1.00 or less,Estimate,8966,678,29690
+DP04_0077PE,OCCUPANTS PER ROOM > Occupied housing units > 1.00 or less,Percent,97.1,1.5,29690
+DP04_0078E,OCCUPANTS PER ROOM > Occupied housing units > 1.01 to 1.50,Estimate,146,87,29690
+DP04_0078PE,OCCUPANTS PER ROOM > Occupied housing units > 1.01 to 1.50,Percent,1.6,1.0,29690
+DP04_0079E,OCCUPANTS PER ROOM > Occupied housing units > 1.51 or more,Estimate,123,105,29690
+DP04_0079PE,OCCUPANTS PER ROOM > Occupied housing units > 1.51 or more,Percent,1.3,1.1,29690
+DP04_0080E,VALUE > Owner-occupied units,Estimate,7541,611,29690
+DP04_0080PE,VALUE > Owner-occupied units,Percent,7541,,29690
+DP04_0081E,"VALUE > Owner-occupied units > Less than $50,000",Estimate,692,202,29690
+DP04_0081PE,"VALUE > Owner-occupied units > Less than $50,000",Percent,9.2,2.6,29690
+DP04_0082E,"VALUE > Owner-occupied units > $50,000 to $99,999",Estimate,590,167,29690
+DP04_0082PE,"VALUE > Owner-occupied units > $50,000 to $99,999",Percent,7.8,2.1,29690
+DP04_0083E,"VALUE > Owner-occupied units > $100,000 to $149,999",Estimate,665,275,29690
+DP04_0083PE,"VALUE > Owner-occupied units > $100,000 to $149,999",Percent,8.8,3.3,29690
+DP04_0084E,"VALUE > Owner-occupied units > $150,000 to $199,999",Estimate,894,230,29690
+DP04_0084PE,"VALUE > Owner-occupied units > $150,000 to $199,999",Percent,11.9,3.1,29690
+DP04_0085E,"VALUE > Owner-occupied units > $200,000 to $299,999",Estimate,2248,398,29690
+DP04_0085PE,"VALUE > Owner-occupied units > $200,000 to $299,999",Percent,29.8,4.5,29690
+DP04_0086E,"VALUE > Owner-occupied units > $300,000 to $499,999",Estimate,1563,291,29690
+DP04_0086PE,"VALUE > Owner-occupied units > $300,000 to $499,999",Percent,20.7,3.5,29690
+DP04_0087E,"VALUE > Owner-occupied units > $500,000 to $999,999",Estimate,702,168,29690
+DP04_0087PE,"VALUE > Owner-occupied units > $500,000 to $999,999",Percent,9.3,2.3,29690
+DP04_0088E,"VALUE > Owner-occupied units > $1,000,000 or more",Estimate,187,64,29690
+DP04_0088PE,"VALUE > Owner-occupied units > $1,000,000 or more",Percent,2.5,0.9,29690
+DP04_0089E,VALUE > Owner-occupied units > Median (dollars),Estimate,243700,14429,29690
+DP04_0090E,MORTGAGE STATUS > Owner-occupied units,Estimate,7541,611,29690
+DP04_0090PE,MORTGAGE STATUS > Owner-occupied units,Percent,7541,,29690
+DP04_0091E,MORTGAGE STATUS > Owner-occupied units > Housing units with a mortgage,Estimate,4174,457,29690
+DP04_0091PE,MORTGAGE STATUS > Owner-occupied units > Housing units with a mortgage,Percent,55.4,4.3,29690
+DP04_0092E,MORTGAGE STATUS > Owner-occupied units > Housing units without a mortgage,Estimate,3367,434,29690
+DP04_0092PE,MORTGAGE STATUS > Owner-occupied units > Housing units without a mortgage,Percent,44.6,4.3,29690
+DP04_0093E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage,Estimate,4174,457,29690
+DP04_0093PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage,Percent,4174,,29690
+DP04_0094E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > Less than $500,Estimate,85,78,29690
+DP04_0094PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > Less than $500,Percent,2.0,1.8,29690
+DP04_0095E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $500 to $999,Estimate,686,185,29690
+DP04_0095PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $500 to $999,Percent,16.4,4.3,29690
+DP04_0096E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $1,000 to $1,499",Estimate,1599,335,29690
+DP04_0096PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $1,000 to $1,499",Percent,38.3,6.9,29690
+DP04_0097E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $1,500 to $1,999",Estimate,912,207,29690
+DP04_0097PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $1,500 to $1,999",Percent,21.8,4.6,29690
+DP04_0098E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $2,000 to $2,499",Estimate,563,206,29690
+DP04_0098PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $2,000 to $2,499",Percent,13.5,4.3,29690
+DP04_0099E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $2,500 to $2,999",Estimate,155,67,29690
+DP04_0099PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $2,500 to $2,999",Percent,3.7,1.7,29690
+DP04_0100E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $3,000 or more",Estimate,174,61,29690
+DP04_0100PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > $3,000 or more",Percent,4.2,1.5,29690
+DP04_0101E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units with a mortgage > Median (dollars),Estimate,1416,64,29690
+DP04_0102E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage,Estimate,3367,434,29690
+DP04_0102PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage,Percent,3367,,29690
+DP04_0103E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > Less than $250,Estimate,705,191,29690
+DP04_0103PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > Less than $250,Percent,20.9,5.4,29690
+DP04_0104E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $250 to $399,Estimate,1179,288,29690
+DP04_0104PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $250 to $399,Percent,35.0,6.4,29690
+DP04_0105E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $400 to $599,Estimate,927,203,29690
+DP04_0105PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $400 to $599,Percent,27.5,5.8,29690
+DP04_0106E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $600 to $799,Estimate,335,154,29690
+DP04_0106PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $600 to $799,Percent,9.9,4.2,29690
+DP04_0107E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $800 to $999,Estimate,96,62,29690
+DP04_0107PE,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $800 to $999,Percent,2.9,1.8,29690
+DP04_0108E,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $1,000 or more",Estimate,125,43,29690
+DP04_0108PE,"SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > $1,000 or more",Percent,3.7,1.2,29690
+DP04_0109E,SELECTED MONTHLY OWNER COSTS (SMOC) > Housing units without a mortgage > Median (dollars),Estimate,361,39,29690
+DP04_0110E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),Estimate,4161,453,29690
+DP04_0110PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),Percent,4161,,29690
+DP04_0111E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > Less than 20.0 percent,Estimate,2270,305,29690
+DP04_0111PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > Less than 20.0 percent,Percent,54.6,5.4,29690
+DP04_0112E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 20.0 to 24.9 percent,Estimate,453,123,29690
+DP04_0112PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 20.0 to 24.9 percent,Percent,10.9,3.0,29690
+DP04_0113E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 25.0 to 29.9 percent,Estimate,385,125,29690
+DP04_0113PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 25.0 to 29.9 percent,Percent,9.3,2.7,29690
+DP04_0114E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 30.0 to 34.9 percent,Estimate,246,108,29690
+DP04_0114PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 30.0 to 34.9 percent,Percent,5.9,2.5,29690
+DP04_0115E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 35.0 percent or more,Estimate,807,230,29690
+DP04_0115PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > 35.0 percent or more,Percent,19.4,4.6,29690
+DP04_0116E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing units with a mortgage (excluding units where SMOCAPI cannot be computed) > Not computed,Estimate,13,21,29690
+DP04_0117E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),Estimate,3338,433,29690
+DP04_0117PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),Percent,3338,,29690
+DP04_0118E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > Less than 10.0 percent,Estimate,1961,321,29690
+DP04_0118PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > Less than 10.0 percent,Percent,58.7,6.6,29690
+DP04_0119E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 10.0 to 14.9 percent,Estimate,581,188,29690
+DP04_0119PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 10.0 to 14.9 percent,Percent,17.4,4.9,29690
+DP04_0120E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 15.0 to 19.9 percent,Estimate,231,72,29690
+DP04_0120PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 15.0 to 19.9 percent,Percent,6.9,2.2,29690
+DP04_0121E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 20.0 to 24.9 percent,Estimate,164,130,29690
+DP04_0121PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 20.0 to 24.9 percent,Percent,4.9,3.9,29690
+DP04_0122E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 25.0 to 29.9 percent,Estimate,81,83,29690
+DP04_0122PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 25.0 to 29.9 percent,Percent,2.4,2.4,29690
+DP04_0123E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 30.0 to 34.9 percent,Estimate,112,85,29690
+DP04_0123PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 30.0 to 34.9 percent,Percent,3.4,2.4,29690
+DP04_0124E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 35.0 percent or more,Estimate,208,79,29690
+DP04_0124PE,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > 35.0 percent or more,Percent,6.2,2.5,29690
+DP04_0125E,SELECTED MONTHLY OWNER COSTS AS A PERCENTAGE OF HOUSEHOLD INCOME (SMOCAPI) > Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed) > Not computed,Estimate,29,39,29690
+DP04_0126E,GROSS RENT > Occupied units paying rent,Estimate,1490,243,29690
+DP04_0126PE,GROSS RENT > Occupied units paying rent,Percent,1490,,29690
+DP04_0127E,GROSS RENT > Occupied units paying rent > Less than $500,Estimate,119,73,29690
+DP04_0127PE,GROSS RENT > Occupied units paying rent > Less than $500,Percent,8.0,4.9,29690
+DP04_0128E,GROSS RENT > Occupied units paying rent > $500 to $999,Estimate,672,217,29690
+DP04_0128PE,GROSS RENT > Occupied units paying rent > $500 to $999,Percent,45.1,11.7,29690
+DP04_0129E,"GROSS RENT > Occupied units paying rent > $1,000 to $1,499",Estimate,592,192,29690
+DP04_0129PE,"GROSS RENT > Occupied units paying rent > $1,000 to $1,499",Percent,39.7,11.9,29690
+DP04_0130E,"GROSS RENT > Occupied units paying rent > $1,500 to $1,999",Estimate,90,87,29690
+DP04_0130PE,"GROSS RENT > Occupied units paying rent > $1,500 to $1,999",Percent,6.0,5.7,29690
+DP04_0131E,"GROSS RENT > Occupied units paying rent > $2,000 to $2,499",Estimate,0,25,29690
+DP04_0131PE,"GROSS RENT > Occupied units paying rent > $2,000 to $2,499",Percent,0.0,2.8,29690
+DP04_0132E,"GROSS RENT > Occupied units paying rent > $2,500 to $2,999",Estimate,17,26,29690
+DP04_0132PE,"GROSS RENT > Occupied units paying rent > $2,500 to $2,999",Percent,1.1,1.7,29690
+DP04_0133E,"GROSS RENT > Occupied units paying rent > $3,000 or more",Estimate,0,25,29690
+DP04_0133PE,"GROSS RENT > Occupied units paying rent > $3,000 or more",Percent,0.0,2.8,29690
+DP04_0134E,GROSS RENT > Occupied units paying rent > Median (dollars),Estimate,931,195,29690
+DP04_0135E,GROSS RENT > Occupied units paying rent > No rent paid,Estimate,204,128,29690
+DP04_0136E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed),Estimate,1490,243,29690
+DP04_0136PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed),Percent,1490,,29690
+DP04_0137E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > Less than 15.0 percent,Estimate,142,86,29690
+DP04_0137PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > Less than 15.0 percent,Percent,9.5,6.0,29690
+DP04_0138E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 15.0 to 19.9 percent,Estimate,169,78,29690
+DP04_0138PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 15.0 to 19.9 percent,Percent,11.3,5.2,29690
+DP04_0139E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 20.0 to 24.9 percent,Estimate,110,71,29690
+DP04_0139PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 20.0 to 24.9 percent,Percent,7.4,4.6,29690
+DP04_0140E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 25.0 to 29.9 percent,Estimate,120,109,29690
+DP04_0140PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 25.0 to 29.9 percent,Percent,8.1,6.8,29690
+DP04_0141E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 30.0 to 34.9 percent,Estimate,180,115,29690
+DP04_0141PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 30.0 to 34.9 percent,Percent,12.1,7.4,29690
+DP04_0142E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 35.0 percent or more,Estimate,769,215,29690
+DP04_0142PE,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > 35.0 percent or more,Percent,51.6,11.9,29690
+DP04_0143E,GROSS RENT AS A PERCENTAGE OF HOUSEHOLD INCOME (GRAPI) > Occupied units paying rent (excluding units where GRAPI cannot be computed) > Not computed,Estimate,204,128,29690
