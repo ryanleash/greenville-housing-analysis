@@ -46,9 +46,9 @@ This project analyzes the Greenville housing market using publicly available dat
 
 The primary deliverable is an interactive Tableau Public workbook with three dashboards:
 
-1. **ZIP Code Comparison** — median sale price, inventory, days on market, and homes sold across all four ZIPs
-2. **Greenville Metro Overview** — ZHVI home values, 30-year mortgage rate, county population growth, and mortgage delinquency rate
-3. **Employer Impact** — timeline of major capital investments and job announcements in Upstate SC
+1. **ZIP Code Comparison** — (https://public.tableau.com/app/profile/ryan.leash/viz/GreenvilleHousingAnalysis/ZIPCodeComparison) — median sale price, inventory, days on market, and homes sold across all four ZIPs
+2. **Greenville Metro Overview** — (https://public.tableau.com/app/profile/ryan.leash/viz/GreenvilleHousingAnalysis/GreenvilleMetroOverview) — ZHVI home values, 30-year mortgage rate, county population growth, and mortgage delinquency rate
+3. **Employer Impact** — (https://public.tableau.com/app/profile/ryan.leash/viz/GreenvilleHousingAnalysis/EmployerImpact) — timeline of major capital investments and job announcements in Upstate SC
 
 <!-- [View on Tableau Public](link-to-be-added) -->
 
